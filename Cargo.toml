@@ -1,8 +1,13 @@
 [package]
-name = "my_lib_proj"
+name = "basic_math_operation"
 version = "0.1.0"
 authors = ["Abdul Rehman <rehman.abdul5666@gmail.com>"]
 edition = "2018"
+description = "A simple library which can be used to perform basic operations like Addition, Subtraction, Multiplication and Division"
+repository = "https://github.com/learningaim/basic_math_operations"
+homepage = "https://github.com/learningaim/basic_math_operations"
+license = "MIT/Apache-2.0"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
